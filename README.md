@@ -33,7 +33,7 @@ I'm **Madhupal Poojary**, a **Full Stack Developer** 💻 with over **2 years of
 
 ### 📫 Let's Connect!
 - 📧 [Email me](mailto:madhu841998@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/madhupal-poojary-025367210)
+- 💼 [LinkedIn](https://www.linkedin.com/in/madhupal-poojary)
 - 🔗 [GitHub](https://github.com/Madhupal841998)
 
 ---
